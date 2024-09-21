@@ -1,0 +1,50 @@
+.cardhome{
+    background: #003145;
+    color: white;
+    /* margin: 20px; */
+    padding: 20px;
+    height: 400px;
+    width: 100%;
+    /* margin-bottom: 8px; */
+    border-radius: 1px;
+    align-items: center;
+  
+  }
+  .cardhomecount {
+    background: #003145;
+    color: white;
+    width: 100%;
+    /* margin-bottom: 8px; */
+    border-radius: 1px;
+    /* display: flex;  */
+    /* align-items: center;  */
+    padding: 15px; 
+    height: 100%;
+  }
+  
+  .countcard {
+    flex: 1; 
+    font-size: 1.5em; 
+    text-align: center; 
+    background: #003145;
+    color: white; 
+  }
+  .countcard1 {
+    flex: 1; 
+    font-size: 1.5em; 
+    /* text-align: center;  */
+    background: #003145;
+    color: white; 
+  }
+  .headningtext{
+   /* background: red; */
+   padding:30px;
+    
+  }
+  .cardimage{
+    background: #003145;
+    color: white; 
+  }
+ 
+ 
+  
